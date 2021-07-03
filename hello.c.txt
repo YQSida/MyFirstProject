@@ -2,7 +2,7 @@
 
 int main()
 {
-
+啊实打实
   prihtf("hello,world!");
 return 0;
 }
